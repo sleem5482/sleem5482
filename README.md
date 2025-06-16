@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sleem hashem Abdelwahab</h1>
+<h1 align="center">Hi 👋, I'm Sleem hashem</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://portfolio-orpin-phi-65.vercel.app)
